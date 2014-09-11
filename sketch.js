@@ -23,4 +23,6 @@ function setup() {
   line(360,50,360,70);
   line(350,70,360,70);
   line(350,50,350,70);
+   rect(20, 20, 80, 50); // x, y, width, height
+    ellipse(50, 50, 50, 50); // centerX, centerY, width, height
 }
