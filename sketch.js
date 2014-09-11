@@ -15,5 +15,5 @@ function setup() {
 
   x = 300;
   ellipse(x, 100, 50, 50);
-}
+
 }
